@@ -66,3 +66,5 @@ We're looking for tutorial-style, code-driven blog posts on **Vue**, **React**, 
 If selected, we'll collaborate on a topic and promote the post across our channels. We have over 100k active email subscribers, mainly web developers, who would love to learn what you have to teach.
 
 Interested? [Reach out](mailto:nate@fullstack.io)
+
+> Polish [version](https://github.com/mbiesiad/awesome-fullstack-tutorials/tree/pl) by [@mbiesiad](https://github.com/mbiesiad)
